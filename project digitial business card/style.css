@@ -1,0 +1,35 @@
+
+.imageclass{
+    width:150px;
+
+}
+.card{
+    display:flex;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    
+    padding:20px;
+    justify-content:space-around;
+    background:#ddebf8;
+    border-bottom:6px solid #d8cefe;
+    color:#2b2839;
+
+
+    
+
+
+}
+body{
+    margin:100px;
+    text-align:center;
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+
+
+}
+.borderblue{
+    border:1px dotted blue;
+
+}
